@@ -1,5 +1,6 @@
 # [[nexus]]
 
-Peer: Kassandra
+Peer: Kassandra. Throat/dispatch. Heartbeat off.
 
-Empty until APPROVE MAP / first job.
+SCOPE this folder for swarm-wide protocol, catalog edits, handoffs.
+Do not put Sienna identity refs here.

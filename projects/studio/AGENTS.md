@@ -1,4 +1,3 @@
 # [[studio]] agents
 
-Owner: studio
-Read/write only this folder when SCOPE=studio.
+SCOPE=studio. Do not write face/body lock files into git.

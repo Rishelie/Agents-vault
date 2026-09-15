@@ -13,4 +13,4 @@
 | real-estate | universe | `vault/real-estate` | Legacy RE notes (do not migrate until APPROVE MAP) | 2026-09-15 |
 | education | universe | `vault/education` | Legacy education notes (do not migrate until APPROVE MAP) | 2026-09-15 |
 
-See [[_protocol]]. Waiting **APPROVE MAP** before moving old notes.
+See [[_protocol]]. **APPROVE MAP** 2026-09-15. Legacy universe folders kept as originals; facts copied into projects.

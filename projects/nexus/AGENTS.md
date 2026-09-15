@@ -1,4 +1,3 @@
 # [[nexus]] agents
 
-Owner: Kassandra
-Read/write only this folder when SCOPE=nexus.
+Owner: Kassandra (main). Read/write only this folder when SCOPE=nexus.

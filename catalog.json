@@ -1,6 +1,6 @@
 {
   "protocol": "vault/_protocol.md",
-  "waiting": "APPROVE MAP",
+  "waiting": null,
   "items": [
     {
       "slug": "nexus",
@@ -8,7 +8,8 @@
       "path": "vault/projects/nexus",
       "job": "Kassandra throat/dispatch. SCOPE starts here for swarm jobs.",
       "last": "2026-09-15",
-      "peer": "Kassandra"
+      "peer": "Kassandra",
+      "status": "approved"
     },
     {
       "slug": "astra",
@@ -16,7 +17,8 @@
       "path": "vault/projects/astra",
       "job": "Astra audits + temp dashboard code. Not Atlas.",
       "last": "2026-09-15",
-      "peer": "Astra"
+      "peer": "Astra",
+      "status": "approved"
     },
     {
       "slug": "atlas",
@@ -24,7 +26,8 @@
       "path": "vault/projects/atlas",
       "job": "Atlas numbers, audits, proposals.",
       "last": "2026-09-15",
-      "peer": "Atlas"
+      "peer": "Atlas",
+      "status": "approved"
     },
     {
       "slug": "acre",
@@ -32,7 +35,8 @@
       "path": "vault/projects/acre",
       "job": "Acre NY/NJ/FL deals.",
       "last": "2026-09-15",
-      "peer": "Acre"
+      "peer": "Acre",
+      "status": "approved"
     },
     {
       "slug": "lumen",
@@ -40,7 +44,8 @@
       "path": "vault/projects/lumen",
       "job": "Lumen chrome/look.",
       "last": "2026-09-15",
-      "peer": "Lumen"
+      "peer": "Lumen",
+      "status": "approved"
     },
     {
       "slug": "market",
@@ -48,7 +53,8 @@
       "path": "vault/projects/market",
       "job": "Market niche/direction.",
       "last": "2026-09-15",
-      "peer": "Market"
+      "peer": "Market",
+      "status": "approved"
     },
     {
       "slug": "studio",
@@ -56,7 +62,8 @@
       "path": "vault/projects/studio",
       "job": "Sienna Studio ops. No identity-ref dumps.",
       "last": "2026-09-15",
-      "peer": "studio"
+      "peer": "studio",
+      "status": "approved"
     },
     {
       "slug": "production",
@@ -82,5 +89,6 @@
       "last": "2026-09-15",
       "peer": null
     }
-  ]
+  ],
+  "approved": "2026-09-15"
 }

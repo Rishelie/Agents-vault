@@ -1,4 +1,3 @@
 # [[atlas]] agents
 
-Owner: Atlas
-Read/write only this folder when SCOPE=atlas.
+Owner: Atlas. SCOPE=atlas. Production mini-agent notes absorbed as pointers only.

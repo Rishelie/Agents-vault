@@ -1,5 +1,5 @@
 # [[studio]]
 
-Peer: studio
-
-Empty until APPROVE MAP / first job.
+Peer: studio / Kassandra-ops. Path: `/root/.openclaw/workspace/projects/sienna-studio`
+Identity-lock stills: Siray, never Grok Imagine. No identity-ref dumps in this vault.
+Auth before public production.com.mx. Real thumbs later.

@@ -1,4 +1,3 @@
 # [[market]] agents
 
-Owner: Market
-Read/write only this folder when SCOPE=market.
+Owner: Market. SCOPE=market. Idle unless metrics disagree.
