@@ -1,0 +1,86 @@
+{
+  "protocol": "vault/_protocol.md",
+  "waiting": "APPROVE MAP",
+  "items": [
+    {
+      "slug": "nexus",
+      "type": "orchestrator",
+      "path": "vault/projects/nexus",
+      "job": "Kassandra throat/dispatch. SCOPE starts here for swarm jobs.",
+      "last": "2026-09-15",
+      "peer": "Kassandra"
+    },
+    {
+      "slug": "astra",
+      "type": "critic",
+      "path": "vault/projects/astra",
+      "job": "Astra audits + temp dashboard code. Not Atlas.",
+      "last": "2026-09-15",
+      "peer": "Astra"
+    },
+    {
+      "slug": "atlas",
+      "type": "analytics",
+      "path": "vault/projects/atlas",
+      "job": "Atlas numbers, audits, proposals.",
+      "last": "2026-09-15",
+      "peer": "Atlas"
+    },
+    {
+      "slug": "acre",
+      "type": "deals",
+      "path": "vault/projects/acre",
+      "job": "Acre NY/NJ/FL deals.",
+      "last": "2026-09-15",
+      "peer": "Acre"
+    },
+    {
+      "slug": "lumen",
+      "type": "design",
+      "path": "vault/projects/lumen",
+      "job": "Lumen chrome/look.",
+      "last": "2026-09-15",
+      "peer": "Lumen"
+    },
+    {
+      "slug": "market",
+      "type": "research",
+      "path": "vault/projects/market",
+      "job": "Market niche/direction.",
+      "last": "2026-09-15",
+      "peer": "Market"
+    },
+    {
+      "slug": "studio",
+      "type": "studio",
+      "path": "vault/projects/studio",
+      "job": "Sienna Studio ops. No identity-ref dumps.",
+      "last": "2026-09-15",
+      "peer": "studio"
+    },
+    {
+      "slug": "production",
+      "type": "universe",
+      "path": "vault/production",
+      "job": "Legacy production notes (do not migrate until APPROVE MAP)",
+      "last": "2026-09-15",
+      "peer": null
+    },
+    {
+      "slug": "real-estate",
+      "type": "universe",
+      "path": "vault/real-estate",
+      "job": "Legacy RE notes (do not migrate until APPROVE MAP)",
+      "last": "2026-09-15",
+      "peer": null
+    },
+    {
+      "slug": "education",
+      "type": "universe",
+      "path": "vault/education",
+      "job": "Legacy education notes (do not migrate until APPROVE MAP)",
+      "last": "2026-09-15",
+      "peer": null
+    }
+  ]
+}

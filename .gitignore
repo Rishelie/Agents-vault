@@ -1,0 +1,15 @@
+# secrets
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*credentials*
+# db / sessions
+*.sqlite
+*.sqlite-*
+*.db
+sessions/
+.openclaw/
+node_modules/
+.DS_Store
