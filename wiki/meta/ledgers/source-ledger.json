@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-09-18T05:38:26Z",
+  "schema": "claude-obsidian.source-ledger.v1",
+  "sources": {
+    "src-4b66011b287f5b880e29": {
+      "origin": {"kind": "file", "locator": ".raw/captured/26f78168dd7c16de9ab47c3fb6adb1e8fbf73b2f9d1f1772f9eb93d2d03d301c.md"},
+      "content_kind": "document",
+      "title": "Nexus BRIEF source",
+      "authority": "primary",
+      "content_sha256": "26f78168dd7c16de9ab47c3fb6adb1e8fbf73b2f9d1f1772f9eb93d2d03d301c",
+      "ingested_at": "2026-09-18",
+      "retrieved_at": null,
+      "refresh_due": "2026-12-18",
+      "review_status": "active",
+      "independence_key": "nexus-project-records",
+      "pages": ["wiki/projects/Nexus.md"],
+      "supersedes": null
+    },
+    "src-19a69e3d57f37abfb5aa": {
+      "origin": {"kind": "file", "locator": ".raw/captured/33f9f752d1d79a776d446b18e49e1e913618b118c19c3e20a019b2e6f01c1956.md"},
+      "content_kind": "document",
+      "title": "Nexus MEMORY source",
+      "authority": "primary",
+      "content_sha256": "33f9f752d1d79a776d446b18e49e1e913618b118c19c3e20a019b2e6f01c1956",
+      "ingested_at": "2026-09-18",
+      "retrieved_at": null,
+      "refresh_due": "2026-09-25",
+      "review_status": "active",
+      "independence_key": "nexus-project-records",
+      "pages": ["wiki/projects/Nexus.md"],
+      "supersedes": null
+    },
+    "src-b788c801698fb601ee28": {
+      "origin": {"kind": "file", "locator": ".raw/captured/843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f.md"},
+      "content_kind": "document",
+      "title": "Nexus AGENTS source",
+      "authority": "primary",
+      "content_sha256": "843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f",
+      "ingested_at": "2026-09-18",
+      "retrieved_at": null,
+      "refresh_due": "2026-12-18",
+      "review_status": "active",
+      "independence_key": "nexus-project-records",
+      "pages": ["wiki/projects/Nexus.md"],
+      "supersedes": null
+    }
+  }
+}

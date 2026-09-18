@@ -13,3 +13,17 @@ sessions/
 .openclaw/
 node_modules/
 .DS_Store
+Thumbs.db
+
+# Brain v2 local runtime and recovery state can contain note text,
+# source URLs, local paths, indexes, journals, and backups.
+.vault-meta/
+
+# Local launch/session state is not durable vault knowledge.
+.mcp.json
+.obsidian/workspace*.json
+.trash/
+
+# Intake remains local until a source is reviewed and captured.
+inbox/*
+!inbox/.gitkeep

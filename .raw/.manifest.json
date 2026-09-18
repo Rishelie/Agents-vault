@@ -1,0 +1,27 @@
+{
+  "address_map": {
+    "wiki/projects/Nexus.md": "c-000001"
+  },
+  "description": "Ingest delta tracker. Source payloads are create-only.",
+  "sources": {
+    ".raw/captured/26f78168dd7c16de9ab47c3fb6adb1e8fbf73b2f9d1f1772f9eb93d2d03d301c.md": {
+      "hash": "26f78168dd7c16de9ab47c3fb6adb1e8fbf73b2f9d1f1772f9eb93d2d03d301c",
+      "pages_created": [
+        "wiki/projects/Nexus.md"
+      ]
+    },
+    ".raw/captured/33f9f752d1d79a776d446b18e49e1e913618b118c19c3e20a019b2e6f01c1956.md": {
+      "hash": "33f9f752d1d79a776d446b18e49e1e913618b118c19c3e20a019b2e6f01c1956",
+      "pages_created": [
+        "wiki/projects/Nexus.md"
+      ]
+    },
+    ".raw/captured/843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f.md": {
+      "hash": "843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f",
+      "pages_created": [
+        "wiki/projects/Nexus.md"
+      ]
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,51 @@
+{
+  "claims": {
+    "clm-nexus-scope": {
+      "text": "Nexus is scoped to swarm-wide protocol, catalog edits, and handoffs.",
+      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-4b66011b287f5b880e29", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-nexus-owner": {
+      "text": "Kassandra (main) owns the Nexus project folder.",
+      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-b788c801698fb601ee28", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-nexus-identity-boundary": {
+      "text": "Sienna identity references must not be stored in the Nexus project.",
+      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-4b66011b287f5b880e29", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-nexus-legacy-pointer": {
+      "text": "Legacy universe material remains a source pointer unless separately approved for migration.",
+      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-19a69e3d57f37abfb5aa", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-crew-court-hold": {
+      "text": "Crew Court was recorded as on hold pending Place and Universe identifiers on 2026-09-15.",
+      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "evidence": [{"source_id": "src-19a69e3d57f37abfb5aa", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    }
+  },
+  "generated_at": "2026-09-18T05:38:26Z",
+  "schema": "claude-obsidian.claim-ledger.v1"
+}
