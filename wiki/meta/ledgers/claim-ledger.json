@@ -2,95 +2,473 @@
   "claims": {
     "clm-nexus-scope": {
       "text": "Nexus is scoped to swarm-wide protocol, catalog edits, and handoffs.",
-      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "location": {
+        "path": "wiki/projects/Nexus.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-4b66011b287f5b880e29", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-4b66011b287f5b880e29",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-nexus-owner": {
       "text": "Kassandra (main) owns the Nexus project folder.",
-      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "location": {
+        "path": "wiki/projects/Nexus.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-b788c801698fb601ee28", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-b788c801698fb601ee28",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-nexus-identity-boundary": {
       "text": "Sienna identity references must not be stored in the Nexus project.",
-      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "location": {
+        "path": "wiki/projects/Nexus.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-4b66011b287f5b880e29", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-4b66011b287f5b880e29",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-nexus-legacy-pointer": {
       "text": "Legacy universe material remains a source pointer unless separately approved for migration.",
-      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "location": {
+        "path": "wiki/projects/Nexus.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-19a69e3d57f37abfb5aa", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-19a69e3d57f37abfb5aa",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-crew-court-hold": {
       "text": "Crew Court was recorded as on hold pending Place and Universe identifiers on 2026-09-15.",
-      "location": {"path": "wiki/projects/Nexus.md", "anchor": null},
+      "location": {
+        "path": "wiki/projects/Nexus.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "provisional",
       "confidence": "medium",
-      "evidence": [{"source_id": "src-19a69e3d57f37abfb5aa", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-19a69e3d57f37abfb5aa",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-brain-v2-canonical-vault": {
       "text": "The shared Markdown vault is the canonical learning source for Brain v2.",
-      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-5f36f5661e6cb2a741e2",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-brain-v2-governed-graph": {
       "text": "Mission Control consumes an evidence-backed Brain v2 graph and does not treat suggestions or decorative motion as knowledge.",
-      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-5f36f5661e6cb2a741e2",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-brain-v2-provenance-privacy": {
       "text": "Task and retrieval provenance stores hashes and identifiers rather than task text, query text, credentials, or secret values.",
-      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-5f36f5661e6cb2a741e2",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-brain-v2-manual-writes": {
       "text": "Canonical Brain v2 capture and promotion require reviewed transactions and exact approval hashes.",
-      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-5f36f5661e6cb2a741e2",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     },
     "clm-brain-v2-obsidian-optional": {
       "text": "Obsidian is optional because Brain v2 storage, links, retrieval, transactions, and dashboard visualization operate on local Markdown and APIs.",
-      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
       "risk": "normal",
       "assessment": "accepted",
       "confidence": "high",
-      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "evidence": [
+        {
+          "source_id": "src-5f36f5661e6cb2a741e2",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-mission-v2-parallel": {
+      "text": "Mission Control v2 remains a parallel surface at /mission/ while v1 remains the default at /. ",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-mission-evidence-lenses": {
+      "text": "Mission Control lenses use recorded runtime, handoff, source, claim, transaction, and provenance evidence; suggestions and visual proximity do not create governed edges.",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-mission-chat-boundary": {
+      "text": "Sanitized session chat is operational evidence and does not automatically become Brain knowledge.",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-capability-state-boundary": {
+      "text": "Installed, enabled, loaded, authenticated, connected, invoked, and verified are distinct capability states.",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-review-preserves-evidence": {
+      "text": "Output review, incident handling, and reversible session hiding preserve original files and session history.",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-task-retrieval-first": {
+      "text": "Dashboard-run Swarm tasks perform bounded local BM25 retrieval before execution and broaden context only when the retrieval packet is insufficient.",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-brain-no-model-polling": {
+      "text": "Brain and runtime live updates reuse local telemetry and SSE without adding model polling.",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-legacy-read-cutover": {
+      "text": "Legacy Brain reads remain a compatibility layer until separately approved cutover.",
+      "location": {
+        "path": "wiki/concepts/Brain-v2-Mission-Control.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-b324ac8bf0507c78180d",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-ziggy-public-flow": {
+      "text": "Ziggy's confirmed public flow collects customer contact, vehicle or damage details, and photos without giving customers access to the private shop desk.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-ziggy-private-flow": {
+      "text": "The private Ziggy desk keeps one card per repair and uses staff-controlled New, Estimate, Parts, Paint, Ready, and Completed stages.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-ziggy-scope-boundary": {
+      "text": "The Ziggy workflow does not estimate insurance work or communicate with insurers.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-ziggy-base-offer": {
+      "text": "As of 2026-09-17, the setup-and-leave offer is $2,500 for the board and agent workflow plus an optional $750 one-page call site.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-ziggy-client-ownership": {
+      "text": "The client owns and pays for hosting and provider accounts; the base offer includes fourteen days of break/fix support.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-ziggy-exclusions": {
+      "text": "Missed-call handling, SMS, automatic pricing, and long-term custody of client credentials are outside the base offer.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-nj-outreach-approval": {
+      "text": "NJ outreach drafts are not sent without explicit approval, and prospect gaps remain hypotheses until confirmed.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-nj-target-order": {
+      "text": "As of 2026-09-17, the outreach order is Ziggy, Centro, then Brookdale, subject to ownership and contact verification.",
+      "location": {
+        "path": "wiki/projects/NJ-Collision-Shop-Automation.md",
+        "anchor": null
+      },
+      "risk": "normal",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source_id": "src-19066dffc331b6ff1f06",
+          "relation": "supports",
+          "locator": null
+        }
+      ],
       "reviewed_at": "2026-09-18"
     }
   },
-  "generated_at": "2026-09-18T17:21:27Z",
+  "generated_at": "2026-09-18T20:12:00Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

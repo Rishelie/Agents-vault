@@ -1,6 +1,7 @@
 {
   "address_map": {
     "wiki/concepts/Brain-v2-Mission-Control.md": "c-000002",
+    "wiki/projects/NJ-Collision-Shop-Automation.md": "c-000003",
     "wiki/projects/Nexus.md": "c-000001"
   },
   "description": "Ingest delta tracker. Source payloads are create-only.",
@@ -17,6 +18,12 @@
         "wiki/projects/Nexus.md"
       ]
     },
+    ".raw/captured/7ea6cc10fe6a2830b80215119c5197af325f3dad5a73a2d3a073ef8f7fe9fb7c.md": {
+      "hash": "7ea6cc10fe6a2830b80215119c5197af325f3dad5a73a2d3a073ef8f7fe9fb7c",
+      "pages_created": [
+        "wiki/concepts/Brain-v2-Mission-Control.md"
+      ]
+    },
     ".raw/captured/843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f.md": {
       "hash": "843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f",
       "pages_created": [
@@ -27,6 +34,12 @@
       "hash": "af5620088c3c772c1a929b21be010c3a158e9928f1c096573561e95fe5df362b",
       "pages_created": [
         "wiki/concepts/Brain-v2-Mission-Control.md"
+      ]
+    },
+    ".raw/captured/efe5048361c0731716cb43d9095f8767142547f7d8b801f92737ea3f9bd19f38.md": {
+      "hash": "efe5048361c0731716cb43d9095f8767142547f7d8b801f92737ea3f9bd19f38",
+      "pages_created": [
+        "wiki/projects/NJ-Collision-Shop-Automation.md"
       ]
     }
   },

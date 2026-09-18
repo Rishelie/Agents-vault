@@ -1,9 +1,12 @@
 {
-  "generated_at": "2026-09-18T17:21:27Z",
+  "generated_at": "2026-09-18T20:12:00Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-4b66011b287f5b880e29": {
-      "origin": {"kind": "file", "locator": ".raw/captured/26f78168dd7c16de9ab47c3fb6adb1e8fbf73b2f9d1f1772f9eb93d2d03d301c.md"},
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/26f78168dd7c16de9ab47c3fb6adb1e8fbf73b2f9d1f1772f9eb93d2d03d301c.md"
+      },
       "content_kind": "document",
       "title": "Nexus BRIEF source",
       "authority": "primary",
@@ -13,11 +16,16 @@
       "refresh_due": "2026-12-18",
       "review_status": "active",
       "independence_key": "nexus-project-records",
-      "pages": ["wiki/projects/Nexus.md"],
+      "pages": [
+        "wiki/projects/Nexus.md"
+      ],
       "supersedes": null
     },
     "src-19a69e3d57f37abfb5aa": {
-      "origin": {"kind": "file", "locator": ".raw/captured/33f9f752d1d79a776d446b18e49e1e913618b118c19c3e20a019b2e6f01c1956.md"},
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/33f9f752d1d79a776d446b18e49e1e913618b118c19c3e20a019b2e6f01c1956.md"
+      },
       "content_kind": "document",
       "title": "Nexus MEMORY source",
       "authority": "primary",
@@ -27,11 +35,16 @@
       "refresh_due": "2026-09-25",
       "review_status": "active",
       "independence_key": "nexus-project-records",
-      "pages": ["wiki/projects/Nexus.md"],
+      "pages": [
+        "wiki/projects/Nexus.md"
+      ],
       "supersedes": null
     },
     "src-b788c801698fb601ee28": {
-      "origin": {"kind": "file", "locator": ".raw/captured/843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f.md"},
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f.md"
+      },
       "content_kind": "document",
       "title": "Nexus AGENTS source",
       "authority": "primary",
@@ -41,11 +54,16 @@
       "refresh_due": "2026-12-18",
       "review_status": "active",
       "independence_key": "nexus-project-records",
-      "pages": ["wiki/projects/Nexus.md"],
+      "pages": [
+        "wiki/projects/Nexus.md"
+      ],
       "supersedes": null
     },
     "src-5f36f5661e6cb2a741e2": {
-      "origin": {"kind": "file", "locator": ".raw/captured/af5620088c3c772c1a929b21be010c3a158e9928f1c096573561e95fe5df362b.md"},
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/af5620088c3c772c1a929b21be010c3a158e9928f1c096573561e95fe5df362b.md"
+      },
       "content_kind": "document",
       "title": "Brain v2 Mission Control technical contract",
       "authority": "primary",
@@ -55,7 +73,47 @@
       "refresh_due": "2026-12-18",
       "review_status": "active",
       "independence_key": "brain-v2-runtime-contract",
-      "pages": ["wiki/concepts/Brain-v2-Mission-Control.md"],
+      "pages": [
+        "wiki/concepts/Brain-v2-Mission-Control.md"
+      ],
+      "supersedes": null
+    },
+    "src-b324ac8bf0507c78180d": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/7ea6cc10fe6a2830b80215119c5197af325f3dad5a73a2d3a073ef8f7fe9fb7c.md"
+      },
+      "content_kind": "document",
+      "title": "Mission Control and Brain v2 delivery facts — 2026-09-18",
+      "authority": "primary",
+      "content_sha256": "7ea6cc10fe6a2830b80215119c5197af325f3dad5a73a2d3a073ef8f7fe9fb7c",
+      "ingested_at": "2026-09-18",
+      "retrieved_at": null,
+      "refresh_due": "2026-10-18",
+      "review_status": "active",
+      "independence_key": "mission-control-delivery-review",
+      "pages": [
+        "wiki/concepts/Brain-v2-Mission-Control.md"
+      ],
+      "supersedes": null
+    },
+    "src-19066dffc331b6ff1f06": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/efe5048361c0731716cb43d9095f8767142547f7d8b801f92737ea3f9bd19f38.md"
+      },
+      "content_kind": "document",
+      "title": "NJ collision-shop offer and Ziggy workflow facts — 2026-09-17",
+      "authority": "primary",
+      "content_sha256": "efe5048361c0731716cb43d9095f8767142547f7d8b801f92737ea3f9bd19f38",
+      "ingested_at": "2026-09-18",
+      "retrieved_at": null,
+      "refresh_due": "2026-10-17",
+      "review_status": "active",
+      "independence_key": "ziggy-workflow-offer-review",
+      "pages": [
+        "wiki/projects/NJ-Collision-Shop-Automation.md"
+      ],
       "supersedes": null
     }
   }

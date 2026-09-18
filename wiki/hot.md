@@ -13,20 +13,17 @@ tags:
 
 ## Last Updated
 
-Brain v2 Mission Control contract promoted through an explicitly approved transaction.
+Reviewed Brain/Mission Control delivery facts and the NJ collision-shop workflow were promoted through an explicitly approved transaction.
 
 ## Key Recent Facts
 
-- [[Brain-v2-Mission-Control]] defines the governed graph and provenance boundary for the next Mission Control.
-- [[Nexus]] is the shared swarm protocol, catalog, and handoff project.
+- [[Brain-v2-Mission-Control]] now routes dashboard-run tasks through bounded BM25 retrieval before broader context.
+- [[NJ-Collision-Shop-Automation]] records the confirmed Ziggy workflow and current setup-and-leave offer.
 - Canonical writes remain reviewed transactions with exact approval hashes.
-- Obsidian remains an optional editor, not a runtime dependency.
-
-## Recent Changes
-
-- Added source-backed Mission Control architecture and provenance claims.
+- Chat and similarity suggestions do not automatically become knowledge.
 
 ## Active Threads
 
-- Build the global Mission Control UI against the governed Brain v2 graph.
-- Retire the legacy Brain read only after the new UI reaches parity.
+- Measure context savings from retrieval-first task runs.
+- Review the parallel Mission Control v2 surface before any default-route cutover.
+- Refresh NJ pricing and outreach assumptions after 2026-10-17.
