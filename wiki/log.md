@@ -13,6 +13,12 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-09-18 — brain-v2-mission-control-contract-promotion
+
+- Promoted the governed Mission Control technical contract from one immutable source.
+- Recorded five source-backed architectural claims.
+- Kept the legacy Brain read as a compatibility source until the Mission Control redesign adopts the governed v2 graph.
+
 ## 2026-09-18 — brain-v2-production-nexus-promotion
 
 - Promoted one Nexus project page from three captured project records.

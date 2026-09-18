@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:38:26Z",
+  "generated_at": "2026-09-18T17:21:27Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-4b66011b287f5b880e29": {
@@ -42,6 +42,20 @@
       "review_status": "active",
       "independence_key": "nexus-project-records",
       "pages": ["wiki/projects/Nexus.md"],
+      "supersedes": null
+    },
+    "src-5f36f5661e6cb2a741e2": {
+      "origin": {"kind": "file", "locator": ".raw/captured/af5620088c3c772c1a929b21be010c3a158e9928f1c096573561e95fe5df362b.md"},
+      "content_kind": "document",
+      "title": "Brain v2 Mission Control technical contract",
+      "authority": "primary",
+      "content_sha256": "af5620088c3c772c1a929b21be010c3a158e9928f1c096573561e95fe5df362b",
+      "ingested_at": "2026-09-18",
+      "retrieved_at": null,
+      "refresh_due": "2026-12-18",
+      "review_status": "active",
+      "independence_key": "brain-v2-runtime-contract",
+      "pages": ["wiki/concepts/Brain-v2-Mission-Control.md"],
       "supersedes": null
     }
   }

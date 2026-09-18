@@ -1,5 +1,6 @@
 {
   "address_map": {
+    "wiki/concepts/Brain-v2-Mission-Control.md": "c-000002",
     "wiki/projects/Nexus.md": "c-000001"
   },
   "description": "Ingest delta tracker. Source payloads are create-only.",
@@ -20,6 +21,12 @@
       "hash": "843b0ea3109a9a8dc846573704e74e095ddbb02be69cccf4d22d2f1669fb384f",
       "pages_created": [
         "wiki/projects/Nexus.md"
+      ]
+    },
+    ".raw/captured/af5620088c3c772c1a929b21be010c3a158e9928f1c096573561e95fe5df362b.md": {
+      "hash": "af5620088c3c772c1a929b21be010c3a158e9928f1c096573561e95fe5df362b",
+      "pages_created": [
+        "wiki/concepts/Brain-v2-Mission-Control.md"
       ]
     }
   },

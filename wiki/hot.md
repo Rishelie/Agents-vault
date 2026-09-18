@@ -13,18 +13,20 @@ tags:
 
 ## Last Updated
 
-Nexus promotion completed through an explicitly approved transaction.
+Brain v2 Mission Control contract promoted through an explicitly approved transaction.
 
 ## Key Recent Facts
 
+- [[Brain-v2-Mission-Control]] defines the governed graph and provenance boundary for the next Mission Control.
 - [[Nexus]] is the shared swarm protocol, catalog, and handoff project.
-- Kassandra owns the Nexus project folder.
-- Crew Court status requires freshness review.
+- Canonical writes remain reviewed transactions with exact approval hashes.
+- Obsidian remains an optional editor, not a runtime dependency.
 
 ## Recent Changes
 
-- Promoted a bounded, source-backed Nexus project synthesis.
+- Added source-backed Mission Control architecture and provenance claims.
 
 ## Active Threads
 
-- Refresh the dated Crew Court hold before using it operationally.
+- Build the global Mission Control UI against the governed Brain v2 graph.
+- Retire the legacy Brain read only after the new UI reaches parity.

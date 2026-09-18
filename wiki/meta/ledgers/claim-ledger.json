@@ -44,8 +44,53 @@
       "confidence": "medium",
       "evidence": [{"source_id": "src-19a69e3d57f37abfb5aa", "relation": "supports", "locator": null}],
       "reviewed_at": "2026-09-18"
+    },
+    "clm-brain-v2-canonical-vault": {
+      "text": "The shared Markdown vault is the canonical learning source for Brain v2.",
+      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-brain-v2-governed-graph": {
+      "text": "Mission Control consumes an evidence-backed Brain v2 graph and does not treat suggestions or decorative motion as knowledge.",
+      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-brain-v2-provenance-privacy": {
+      "text": "Task and retrieval provenance stores hashes and identifiers rather than task text, query text, credentials, or secret values.",
+      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-brain-v2-manual-writes": {
+      "text": "Canonical Brain v2 capture and promotion require reviewed transactions and exact approval hashes.",
+      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
+    },
+    "clm-brain-v2-obsidian-optional": {
+      "text": "Obsidian is optional because Brain v2 storage, links, retrieval, transactions, and dashboard visualization operate on local Markdown and APIs.",
+      "location": {"path": "wiki/concepts/Brain-v2-Mission-Control.md", "anchor": null},
+      "risk": "normal",
+      "assessment": "accepted",
+      "confidence": "high",
+      "evidence": [{"source_id": "src-5f36f5661e6cb2a741e2", "relation": "supports", "locator": null}],
+      "reviewed_at": "2026-09-18"
     }
   },
-  "generated_at": "2026-09-18T05:38:26Z",
+  "generated_at": "2026-09-18T17:21:27Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

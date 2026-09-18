@@ -20,10 +20,11 @@ This catalog is updated by completed knowledge operations.
 ## Sources
 
 - Three Nexus project records are retained as immutable captured sources.
+- The Brain v2 Mission Control technical contract is retained as an immutable captured source.
 
 ## Concepts
 
-- No standalone concepts indexed yet.
+- [[Brain-v2-Mission-Control]] — governed graph, provenance, transactional writes, and optional Obsidian boundary.
 
 ## Entities
 
